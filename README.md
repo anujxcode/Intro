@@ -1,8 +1,4 @@
-
-
-<h1 align="center">Hi 👋, I'm Anuj Rathore</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
+![971  Converted -01](https://github.com/anujxcode/Intro/assets/106525163/16283180-e7e1-43cd-b19c-82620af53dcf)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
