@@ -7,11 +7,11 @@
 <div align="center">
   
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/resume.png?raw=true" /></a>
-  &ensp;
+  &nbsp;
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/linkedin.png?raw=true" alt="twitter icon" /></a>
-  
+  &nbsp;
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/codepen.png?raw=true" alt="twitter icon" /></a>
-  &ensp;
+  &nbsp;
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/insta.png?raw=true" alt="twitter icon" /></a>
 
 
