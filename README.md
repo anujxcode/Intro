@@ -9,9 +9,9 @@
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/resume.png?raw=true" /></a>
   &nbsp;
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/linkedin.png?raw=true" alt="twitter icon" /></a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/codepen.png?raw=true" alt="twitter icon" /></a>
-  &nbsp;
+  &nbsp; 
   <a href="" target="blank"><img align="center" src="https://github.com/anujxcode/anujxcode/blob/main/icons/insta.png?raw=true" alt="twitter icon" /></a>
 
 
